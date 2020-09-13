@@ -49,7 +49,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'telusko.urls'
+ROOT_URLCONF = 'calc.urls'
 
 TEMPLATES = [
     {
